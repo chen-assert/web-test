@@ -1,0 +1,16 @@
+p {
+  text-transform: uppercase;
+  padding: 5px;
+}
+
+#first {
+  background-color: goldenrod;
+}
+
+#second {
+  background-color: silver;
+}
+
+#third {
+  background-color: #CD7F32;
+}

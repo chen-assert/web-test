@@ -1,0 +1,14 @@
+#allsides {border-style: solid; }
+
+#red {border-bottom-color: red;
+	border-bottom-style: solid;	}
+	
+#round {border-radius: 25px;
+		border-style: solid;}
+
+#blue {border-left-color: blue;
+border-left-style: solid;}
+
+ p {padding: 5px;} 
+
+	

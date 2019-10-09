@@ -1,0 +1,16 @@
+#secondpara {
+  background-color: red;
+  border: 5px solid black;
+}
+
+.firstclass {
+  background-color: gray;
+  border: none !important;
+}
+
+p {
+  background-color: blue;
+  color: white;
+  padding: 5px;
+}
+
