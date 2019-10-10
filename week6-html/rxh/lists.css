@@ -1,0 +1,27 @@
+ol {
+    left: 0;
+    background-color: rgb(174, 216, 229);
+    padding: 20px;
+}
+
+.european {
+    font-style: italic;
+}
+
+ol .indian {
+    color: blue;
+}
+
+li {
+    padding: 0px;
+}
+
+ul {
+    background-color: rgb(147, 236, 148);
+    list-style-type: square;
+    padding: 20px;
+}
+
+ul .indian {
+    color: red;
+}

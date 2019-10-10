@@ -1,0 +1,7 @@
+ul{list-style-type:square;background: lightgreen;padding: 30px 20px;}
+ol{background: lightblue;padding: 30px 20px;}
+ul>li{font-style: italic;}
+ul>li.indian{color: red;font-style:normal;}
+ol>li.indian{color: blue;}
+ol>li.european{font-style: italic;}
+p.dessert{font-size: 200%}
